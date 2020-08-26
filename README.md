@@ -6,3 +6,4 @@ Webhook automation
 Integrate github with jenkins by using webhook
 its testing
 This the webhook
+when i commited the code build will be triggered
